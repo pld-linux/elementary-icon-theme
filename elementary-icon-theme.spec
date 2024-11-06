@@ -1,13 +1,13 @@
 Summary:	An original set of vector icons designed specifically for elementary OS and its desktop environment: Pantheon
 Summary(pl.UTF-8):	Oryginalny zestaw ikon wektorowych zaprojektowany specjalnie dla elementary OS i jego środowiska graficznego: Pantheon.
 Name:		elementary-icon-theme
-Version:	8.0.0
+Version:	8.1.0
 Release:	1
 License:	GPL v3
 Group:		X11/Applications
 URL:		https://github.com/elementary/icons
 Source0:	https://github.com/elementary/icons/archive/refs/tags/%{version}.tar.gz
-# Source0-md5:	3a4d270649c0f78333228c74d657d522
+# Source0-md5:	731d2e0623d23e771a4dd6f701b70269
 BuildRequires:	gettext-tools
 BuildRequires:	librsvg
 BuildRequires:	meson
